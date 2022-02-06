@@ -1,0 +1,1 @@
+-->  made a services folder to fetch data from the graph-CMS
